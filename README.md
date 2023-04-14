@@ -1,7 +1,7 @@
 # Fake News Detection
 
 ### _Steps_
-1. Download the dataset: _Link will be added soon_
+1. Download the dataset: [MEGA Link]
 2. Run _Preprocessing.ipynb_ first.
 3. Then run _Visualization.ipynb_ (optional) and _Models.ipynb_.
 4. Run _Prediction.ipynb_.
@@ -11,4 +11,4 @@
 
 [//]: #
 
-   [Mega Link]: <>
+   [MEGA Link]: <https://mega.nz/file/FlgzCIyL#E6XE4nkKUIWCo44YY9T9cj6Gd1F_rKTvDVuAJJlkWCw>
