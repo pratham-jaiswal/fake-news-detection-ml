@@ -3,7 +3,7 @@
 ### _Steps_
 1. Download the dataset: [MEGA Link]
 2. Run _Preprocessing.ipynb_ first.
-3. Then run _Visualization.ipynb_ (optional) and _Models.ipynb_.
+3. Run _Visualization.ipynb_ (optional) and _Models.ipynb_.
 4. Run _Prediction.ipynb_.
 
 ### _Requirements_
