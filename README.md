@@ -1,4 +1,5 @@
 # Fake News Detection
+This project  aims to classify news as either real or fake using machine learning algorithms. It uses a dataset of news articles that have been labeled as either real or fake, and implements various machine learning algorithms to train models that can accurately predict the veracity of new unseen news articles.
 
 ### _Steps_
 1. Download the dataset: [MEGA Link]
